@@ -52,17 +52,27 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atharvapathak&theme=dark&background=000000)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atharvapathak)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvapathak&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+**💬 Ask me about anything, I'll be happy to help!** <br>
+**💬 My inbox is always open, Contact me**
+<br>
+<br> 
+  <a href="https://www.linkedin.com/in/atharva-pathak-126021119/" target="_blank">
+   <img align="left" alt="Atharva Pathak | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+  </a>
+  <a href="mailto:atharvapathakb2w@gmail.com" target="_blank">
+    <img align="left" alt="Atharva Pathak | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+  </a>
+  <a href="https://twitter.com/pathak_atharva" target="_blank">
+    <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
+  </a>
+  <a href="https://dev.to/atharvapathak" target="_blank">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Atharva Pathak's DEV Profile" height="30" width="30">
+</a>
 
 <!--
 **atharvapathak/atharvapathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
